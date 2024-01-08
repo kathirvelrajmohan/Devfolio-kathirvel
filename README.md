@@ -1,7 +1,7 @@
 # Developer Portfolio - Kathirvel Rajmohan
 
 
-This is my developer portfolio website, showcasing my skills and projects. You can view it live at [kathirvelrajmohan.netlify.com](https://kathirvelrajmohan.netlify.com).
+This is my developer portfolio website, showcasing my skills and projects. You can view it live at [kathirvelrajmohan.netlify.com](https://kathirvelrajmohan.github.io/Devfolio-kathirvel/).
 
 ## Getting Started
 
